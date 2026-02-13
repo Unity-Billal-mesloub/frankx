@@ -5,23 +5,23 @@
   </h3>
 </div>
 <p align="center">
-  <a href="https://github.com/pantor/frankx/actions">
-    <img src="https://github.com/pantor/frankx/workflows/CI/badge.svg" alt="CI">
+  <a href="https://github.com/Unity-Billal-mesloub/frankx/actions">
+    <img src="https://github.com/Unity-Billal-mesloub/frankx/workflows/CI/badge.svg" alt="CI">
   </a>
 
-  <a href="https://github.com/pantor/frankx/actions">
-    <img src="https://github.com/pantor/frankx/workflows/Publish/badge.svg" alt="Publish">
+  <a href="https://github.com/Unity-Billal-mesloub/frankx/actions">
+    <img src="https://github.com/Unity-Billal-mesloub/frankx/workflows/Publish/badge.svg" alt="Publish">
   </a>
 
-  <a href="https://github.com/pantor/frankx/issues">
+  <a href="https://github.com/Unity-Billal-mesloub/frankx/issues">
     <img src="https://img.shields.io/github/issues/pantor/frankx.svg" alt="Issues">
   </a>
 
-  <a href="https://github.com/pantor/frankx/releases">
+  <a href="https://github.com/Unity-Billal-mesloub/frankx/releases">
     <img src="https://img.shields.io/github/v/release/pantor/frankx.svg?include_prereleases&sort=semver" alt="Releases">
   </a>
 
-  <a href="https://github.com/pantor/frankx/blob/master/LICENSE">
+  <a href="https://github.com/Unity-Billal-mesloub/frankx/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-LGPL-green.svg" alt="LGPL">
   </a>
 </p>
