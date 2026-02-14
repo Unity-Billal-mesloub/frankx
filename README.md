@@ -326,7 +326,7 @@ print('New joints: ', q_new)
 
 ## Documentation
 
-An auto-generated documentation can be found at [https://pantor.github.io/frankx/](https://pantor.github.io/frankx/). Moreover, there are multiple examples for both C++ and Python in the [examples](https://github.com/pantor/frankx/tree/master/examples) directory. We will add a more detailed documentation once frankx reaches v1.0.
+An auto-generated documentation can be found at [https://pantor.github.io/frankx/](https://Unity-Billal-mesloub.github.io/frankx/). Moreover, there are multiple examples for both C++ and Python in the [examples](https://github.com/Unity-Billal-mesloub/frankx/tree/main/examples) directory. We will add a more detailed documentation once frankx reaches v1.0.
 
 
 ## Development
